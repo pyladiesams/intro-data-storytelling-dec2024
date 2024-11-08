@@ -1,9 +1,11 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# An introduction to Data Storytelling
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+Data is everywhere. It is through analysis and visualization that we are able to turn data into information that can be used to drive better decision making. Out-of-the-box tools will allow you to create a chart, but if you want people to take action, your numbers need to tell a compelling story.
+
+In this tutorial, you will learn how elements of storytelling can be applied to data visualization, and allow you to effectively tell the story in your data.
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
